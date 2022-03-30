@@ -132,8 +132,8 @@ something.doAction2();
 //  action 3: does another thing
 something.doAction3();
 
-// Honestly, coming up with random names and actions is harder than giving your variables and functions a proper descriptive name. I come from a C# (Unity) background, if this can help you.
-
+// Honestly, coming up with random names and actions is harder than giving your variables and functions a proper descriptive name. I come from a C# (Unity) background, if this can help you. 
+ 
 #endif
 
 /*
