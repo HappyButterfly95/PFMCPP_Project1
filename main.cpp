@@ -124,13 +124,13 @@ dog.run();
 //  action 3: barks
 dog.bark();
 //  10)
-//  Noun: something
-//  action 1: does something
-something.doAction1();
-//  action 2: does something else
-something.doAction2();
-//  action 3: does another thing
-something.doAction3();
+//  Noun: mySuperAwesomeAndPwettyBichir
+//  action 1: devours a worm
+mySuperAwesomeAndPwettyBichir.devourWorm();
+//  action 2: sleeps in the plants at the surface
+mySuperAwesomeAndPwettyBichir.sleepInFloatingPlants();
+//  action 3: makes super big poops
+mySuperAwesomeAndPwettyBichir.makeBigPoop();
 
 // Honestly, coming up with random names and actions is harder than giving your variables and functions a proper descriptive name. I come from a C# (Unity) background, if this can help you. 
  
