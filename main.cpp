@@ -52,78 +52,6 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun: my bichir
-//  action 1: swims
-myBichir.swim();
-//  action 2: eats
-myBichir.eat();
-//  action 3: sleeps
-myBichir.sleep();
-//  2)
-//  Noun: platty
-//  action 1: eats
-platy.eat();
-//  action 2: swims
-platy.swim();
-//  action 3: dies
-platy.die();
-//  3)
-//  Noun: loach
-//  action 1: swims
-loach.swim();
-//  action 2: hides
-loach.hide();
-//  action 3: asks for food
-loach.askForFood();
-//  4)
-//  Noun: grand pike
-//  action 1: swims
-grandPike.swim();
-//  action 2: hunts
-grandPike.hunt();
-//  action 3: grows
-grandPike.grow();
-//  5)
-//  Noun: bird
-//  action 1: fly
-bird.fly();
-//  action 2: make nest
-bird.makeNest();
-//  action 3: lay egg
-bird.layEgg();
-//  6)
-//  Noun: water
-//  action 1: freezes
-water.freeze();
-//  action 2: melts
-water.melt();
-//  action 3: sublimates
-water.sublimate();
-//  7)
-//  Noun: flower
-//  action 1: grows
-flower.grow();
-//  action 2: blooms
-flower.bloom();
-//  action 3: withers // fades could cause confusion
-flower.wither();
-//  8)
-//  Noun: door
-//  action 1: opens
-door.open();
-//  action 2: closes
-door.close();
-//  action 3: creaks
-door.creak();
-//  9)
-//  Noun: dog
-//  action 1: walks
-dog.walk();
-//  action 2: runs
-dog.run();
-//  action 3: barks
-dog.bark();
-//  10)
 //  Noun: mySuperAwesomeAndPwettyBichir
 //  action 1: devours a worm
 mySuperAwesomeAndPwettyBichir.devourWorm();
@@ -131,6 +59,78 @@ mySuperAwesomeAndPwettyBichir.devourWorm();
 mySuperAwesomeAndPwettyBichir.sleepInFloatingPlants();
 //  action 3: makes super big poops
 mySuperAwesomeAndPwettyBichir.makeBigPoop();
+//  2)
+//  Noun: theColorfullPlaty
+//  action 1: eats some flakes
+theColorfullPlaty.eatFlakes();
+//  action 2: swims in group
+theColorfullPlaty.swiminGroup();
+//  action 3: dies alone
+theColorfullPlaty.dieAlone();
+//  3)
+//  Noun: khuliLoach
+//  action 1: swims on the glass
+khuliLoach.swimOnTheGlass();
+//  action 2: hides in the sand
+khuliLoach.hideInTheSand();
+//  action 3: asks for more food
+khuliLoach.askForMoreFood();
+//  4)
+//  Noun: theGrandPike
+//  action 1: swims in circles
+theGrandPike.swimInCircle();
+//  action 2: hunt for food
+theGrandPike.huntForFood();
+//  action 3: grows bigger
+theGrandPike.growBigger();
+//  5)
+//  Noun: LittleBird
+//  action 1: fly around
+LittleBird.flyAround();
+//  action 2: make new nest
+LittleBird.makeNewNest();
+//  action 3: lay three eggs
+LittleBird.layThreeEggs();
+//  6)
+//  Noun: water
+//  action 1: freezes
+springWater.freezeSuperFast();
+//  action 2: melts
+springWater.meltSuperFast();
+//  action 3: sublimates
+springWater.evaporateSuperFast();
+//  7)
+//  Noun: prettyFlower
+//  action 1: grows taller
+prettyFlower.growTaller();
+//  action 2: blooms 
+prettyFlower.bloomAgain();
+//  action 3: withers // fades could cause confusion
+prettyFlower.witherAndMakeSeeds();
+//  8)
+//  Noun: frontDoor
+//  action 1: opens
+frontDoor.openWithoutNoise();
+//  action 2: closes 
+frontDoor.closeWithNoise();
+//  action 3: creaks a lot
+frontDoor.creakALot();
+//  9)
+//  Noun: WierdDog
+//  action 1: walks on two legs
+wierdDog.walkOnTwoLegs();
+//  action 2: runs backwards
+wierdDog.runBackwards();
+//  action 3: barks in silence
+wierdDog.barkInSilence();
+//  10)
+//  Noun: something
+//  action 1: does something
+something.doAction1();
+//  action 2: does something else
+something.doAction2();
+//  action 3: does another thing
+something.doAction3();
 
 // Honestly, coming up with random names and actions is harder than giving your variables and functions a proper descriptive name. I come from a C# (Unity) background, if this can help you. 
  
