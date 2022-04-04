@@ -111,17 +111,18 @@ flower.wither();
 //  Noun: door
 //  action 1: opens
 door.open();
-//  action 2: clos//  Noun: mySuperAwesomeAndPwettyBichir
+//  action 2: closes
+door.close();
+//  action 3: creaks
+door.creak();
+//  9)
+//  Noun: mySuperAwesomeAndPwettyBichir
 //  action 1: devours a worm
 mySuperAwesomeAndPwettyBichir.devourWorm();
 //  action 2: sleeps in the plants at the surface
 mySuperAwesomeAndPwettyBichir.sleepInFloatingPlants();
 //  action 3: makes super big poops
 mySuperAwesomeAndPwettyBichir.makeBigPoop();k();
-//  action 2: runs
-dog.run();
-//  action 3: barks
-dog.bark();
 //  10)
 //  Noun: something
 //  action 1: does something
