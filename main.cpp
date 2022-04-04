@@ -52,86 +52,87 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: my bichir
+//  action 1: swims
+myBichir.swim();
+//  action 2: eats
+myBichir.eat();
+//  action 3: sleeps
+myBichir.sleep();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: platty
+//  action 1: eats
+platy.eat();
+//  action 2: swims
+platy.swim();
+//  action 3: dies
+platy.die();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: loach
+//  action 1: swims
+loach.swim();
+//  action 2: hides
+loach.hide();
+//  action 3: asks for food
+loach.askForFood();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: grand pike
+//  action 1: swims
+grandPike.swim();
+//  action 2: hunts
+grandPike.hunt();
+//  action 3: grows
+grandPike.grow();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bird
+//  action 1: fly
+bird.fly();
+//  action 2: make nest
+bird.makeNest();
+//  action 3: lay egg
+bird.layEgg();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: water
+//  action 1: freezes
+water.freeze();
+//  action 2: melts
+water.melt();
+//  action 3: sublimates
+water.sublimate();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: flower
+//  action 1: grows
+flower.grow();
+//  action 2: blooms
+flower.bloom();
+//  action 3: withers // fades could cause confusion
+flower.wither();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: door
+//  action 1: opens
+door.open();
+//  action 2: closes
+door.close();
+//  action 3: creaks
+door.creak();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: mySuperAwesomeAndPwettyBichir
+//  action 1: devours a worm
+mySuperAwesomeAndPwettyBichir.devourWorm();
+//  action 2: sleeps in the plants at the surface
+mySuperAwesomeAndPwettyBichir.sleepInFloatingPlants();
+//  action 3: makes super big poops
+mySuperAwesomeAndPwettyBichir.makeBigPoop();k();
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: something
+//  action 1: does something
+something.doAction1();
+//  action 2: does something else
+something.doAction2();
+//  action 3: does another thing
+something.doAction3();
 
-//  action 2:
-
-//  action 3:
-
-
+// Honestly, coming up with random names and actions is harder than giving your variables and functions a proper descriptive name. I come from a C# (Unity) background, if this can help you.
 
 #endif
 
